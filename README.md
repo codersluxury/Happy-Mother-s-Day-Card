@@ -4,7 +4,7 @@ A simple HTML-based flip card greeting for Mother's Day.
 
 ## Live Preview
 
-This site is live via: [preview card](https://codersluxury.github.io/Happy-Mother-s-Day-Card/)
+View Happy Mother's Day Card live via: [preview card](https://codersluxury.github.io/Happy-Mother-s-Day-Card/)
 
 ## Overview
 
