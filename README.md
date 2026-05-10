@@ -1,4 +1,4 @@
-# Mother's Day Card
+# Happy Mother's Day Cards
 
 A simple HTML-based flip card greeting for Mother's Day.
 
