@@ -2,6 +2,10 @@
 
 A simple HTML-based flip card greeting for Mother's Day.
 
+## Live Preview
+
+This site is live via: [preview card](https://codersluxury.github.io/Happy-Mother-s-Day-Card/)
+
 ## Overview
 
 This folder contains a single-page card design built with HTML and CSS. It displays a front cover with a Mother's Day message and flips over on hover to reveal the inside greeting.
